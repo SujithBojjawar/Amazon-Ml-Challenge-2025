@@ -7,8 +7,8 @@ In e-commerce, determining the optimal price point for products is crucial for m
 **Team Name:** Team DataMinds. (Honestly I wasn't the one who came up with it. But still cool name)
 
 **Team Members:** 
-- [Gayathri P](https://www.linkedin.com/in/gayathri-pch/)
-- [Sujith Bojjawar](https://www.linkedin.com/in/sujith-bojjawar-26b820256/)  
+- [Sujith Bojjawar](https://www.linkedin.com/in/sujith-bojjawar-26b820256/)
+- [Gayathri P](https://www.linkedin.com/in/gayathri-pch/) 
 - [T Manas ](https://in.linkedin.com/in/t-manas-chakravarty-91958224b)  
 - [Tejaswi Niharika](https://in.linkedin.com/in/relli-tejaswi-niharika-032696295)
 
