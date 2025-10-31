@@ -9,7 +9,7 @@ In e-commerce, determining the optimal price point for products is crucial for m
 **Team Members:** 
 - [Sujith Bojjawar](https://www.linkedin.com/in/sujith-bojjawar-26b820256/)
 - [Gayathri P](https://www.linkedin.com/in/gayathri-pch/)
-- [Tejaswi Niharika](https://in.linkedin.com/in/relli-tejaswi-niharika-032696295)
+- [R.Tejaswi Niharika](https://in.linkedin.com/in/relli-tejaswi-niharika-032696295)
 - [T Manas ](https://in.linkedin.com/in/t-manas-chakravarty-91958224b)  
 
 
